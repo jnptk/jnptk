@@ -1,6 +1,8 @@
-# Hi there 👋
+### Hi there 👋
 
-## 🧑‍💻 About me
+I'm [jnptk](https://jnptk.dev) and I write code sometimes.
+
+#### 🧑‍💻 About me
 
 - 🔭 I’m currently working on my own little game
 - 🌱 I’m currently learning: Godot and playing the Guitar
@@ -9,4 +11,7 @@
 - 📫 How to reach me: don't.
 - ⚡️ Fun fact: I love bouldering 🧗 & frogs 🐸
 
-*Puff puff* 🥦😙💨
+#### 🔨 What I've been working on
+
+- [jnptk/dotfiles](https://github.com/jnptk/dotfiles)
+- [jnptk/jnptk.github.io](https://github.com/jnptk/jnptk.github.io)
